@@ -6,3 +6,6 @@ Isto é um teste muito básico
 Este repositório é feito por nb
 
 Nb tinha um site em www.modular.pt
+
+|## Posição | Números|
+|---|---|
